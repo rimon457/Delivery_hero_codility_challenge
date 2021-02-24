@@ -1,2 +1,2 @@
 # Delivery_hero_codility_challenge
-Sample Codility SQL challenges that you may try to practice
+Sample Codility SQL challenges that you may try to practice for Delivery Hero DA roles...
